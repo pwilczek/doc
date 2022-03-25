@@ -5,6 +5,7 @@ So:
 * cards are ordered _1, 2, 3_
 * we can get a card by its position (we get random one)
 * all 52 cards (no more, no less) are in a pile after shuffling
+
 ![Deck of Cards](./img/pile-of-cards.png "Pile of Cards")
 
 ## Standard deck of cards
