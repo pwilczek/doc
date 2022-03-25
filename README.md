@@ -29,6 +29,7 @@ _The standard 52-card deck of French-suited playing cards is the most common pac
 | Ace   |  |
 ## Link for the game
 [Shuffle the cards](http://localhost:8080/shuffle)
+
 [Get a cards](http://localhost:8080/card/42)
 ## Some hints
 [H2 Console](http://localhost:8080/h2-console)
