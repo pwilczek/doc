@@ -40,4 +40,8 @@ _The standard 52-card deck of French-suited playing cards is the most common pac
 ## Some hints
 [H2 Console](http://localhost:8080/h2-console)
 
+__Change JDBC URL to:__ jdbc:h2:mem:doc
+
+__User/pass:__ doc
+
 ![H2 Console](./img/h2-console.png "H2 Console")
