@@ -32,6 +32,7 @@ _The standard 52-card deck of French-suited playing cards is the most common pac
 * after shuffling we'd want to save the result in H2 (already set)
 * shuffling happens after calling a link below
 * card is returned by its position via provided link
+* getting a card by position is stable (get position 42 returns the same card until deck is reshuffled)
 
 ## Link for the game
 [Shuffle the cards](http://localhost:8080/shuffle)
