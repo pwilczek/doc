@@ -2,7 +2,7 @@
 We'd like to model __Deck of Cards__ in our app and prepare __shuffled set of cards__ for a play.
 So:
 * cards are shuffled (random order)
-* cards are ordered _1, 2, 3_
+* each card has a position in a pile
 * we can get a card by its position (we get random one)
 * all 52 cards (no more, no less) are in a pile after shuffling
 
