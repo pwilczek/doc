@@ -1,8 +1,10 @@
 spring:
   datasource:
-    url: jdbc:h2:mem:mydb
+    url: jdbc:h2:mem:demo
     username: doc
     password: doc
     driverClassName: org.h2.Driver
   jpa:
     spring.jpa.database-platform: org.hibernate.dialect.H2Dialect
+  h2:
+    console.enabled: true
