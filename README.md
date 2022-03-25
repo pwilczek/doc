@@ -27,6 +27,12 @@ _The standard 52-card deck of French-suited playing cards is the most common pac
 | Queen |  |
 | King  |  |
 | Ace   |  |
+
+## Tech details
+* after shuffling we'd want to save the result in H2 (already set)
+* shuffling happens after calling a link below
+* card is returned by its position via provided link
+
 ## Link for the game
 [Shuffle the cards](http://localhost:8080/shuffle)
 
